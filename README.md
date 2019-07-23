@@ -1,2 +1,2 @@
 # node
-study node
+study node - egoing
